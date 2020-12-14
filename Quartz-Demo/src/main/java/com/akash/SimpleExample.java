@@ -17,7 +17,7 @@ public class SimpleExample {
 	// 1. Job - task
 	// 2. Trigger -
 	//            1. SimpleTrigger
-	//            2. CornTrigger
+	//            2. CronTrigger
 	// 3. Scheduler	
 	
 	// The key interfaces of the API are:
